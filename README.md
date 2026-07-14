@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=250&section=header&text=Seongmun%20Yun&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 ## Introduce
-* I'm a junior developer interested in Web
+* I'm a developer interested in Web
 * I'm from South Korea 
 
 ## Contact
